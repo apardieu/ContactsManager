@@ -1,0 +1,145 @@
+2024-03-04 11:25:59.383 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-04 11:25:59.410 +01:00 [INF] Hosting environment: Development
+2024-03-04 11:25:59.434 +01:00 [INF] Content root path: C:\Users\Arthur\source\repos\ContactsManagerSolution\ContactsManager.UI\
+2024-03-04 11:26:22.770 +01:00 [INF] User profile is available. Using 'C:\Users\Arthur\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-04 11:26:23.136 +01:00 [INF] Now listening on: http://localhost:5192
+2024-03-04 11:26:24.320 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5192/ - -
+2024-03-04 11:26:24.472 +01:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-03-04 11:26:24.494 +01:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2024-03-04 11:26:24.499 +01:00 [INF] HTTP GET / responded 302 in 82.2760 ms
+2024-03-04 11:26:24.515 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5192/ - - - 302 0 - 201.9224ms
+2024-03-04 11:26:24.534 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5192/Account/Login?ReturnUrl=%2F - -
+2024-03-04 11:26:24.554 +01:00 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2024-03-04 11:26:24.609 +01:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login() on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2024-03-04 11:26:24.961 +01:00 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync
+2024-03-04 11:26:24.972 +01:00 [INF] Executing ViewResult, running view Login.
+2024-03-04 11:26:25.341 +01:00 [INF] Executed ViewResult - view Login executed in 366.0874ms.
+2024-03-04 11:26:25.344 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5192/_framework/aspnetcore-browser-refresh.js - -
+2024-03-04 11:26:25.350 +01:00 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI) in 738.2707ms
+2024-03-04 11:26:25.358 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5192/_vs/browserLink - -
+2024-03-04 11:26:25.363 +01:00 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2024-03-04 11:26:25.364 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5192/_framework/aspnetcore-browser-refresh.js - - - 200 13772 application/javascript;+charset=utf-8 20.2396ms
+2024-03-04 11:26:25.365 +01:00 [INF] HTTP GET /Account/Login responded 200 in 827.2856 ms
+2024-03-04 11:26:25.382 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5192/Account/Login?ReturnUrl=%2F - - - 200 - text/html;+charset=utf-8 847.3125ms
+2024-03-04 11:26:25.482 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5192/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 124.1641ms
+2024-03-04 11:26:26.867 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5192/Persons/Index - -
+2024-03-04 11:26:26.872 +01:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-03-04 11:26:26.874 +01:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2024-03-04 11:26:26.876 +01:00 [INF] HTTP GET /Persons/Index responded 302 in 4.9233 ms
+2024-03-04 11:26:26.879 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5192/Persons/Index - - - 302 0 - 12.1546ms
+2024-03-04 11:26:26.883 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5192/Account/Login?ReturnUrl=%2FPersons%2FIndex - -
+2024-03-04 11:26:26.887 +01:00 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2024-03-04 11:26:26.888 +01:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login() on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2024-03-04 11:26:26.901 +01:00 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync
+2024-03-04 11:26:26.911 +01:00 [INF] Executing ViewResult, running view Login.
+2024-03-04 11:26:26.915 +01:00 [INF] Executed ViewResult - view Login executed in 3.5513ms.
+2024-03-04 11:26:26.917 +01:00 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI) in 26.5421ms
+2024-03-04 11:26:26.920 +01:00 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2024-03-04 11:26:26.922 +01:00 [INF] HTTP GET /Account/Login responded 200 in 36.2381 ms
+2024-03-04 11:26:26.923 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5192/_framework/aspnetcore-browser-refresh.js - -
+2024-03-04 11:26:26.923 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5192/_vs/browserLink - -
+2024-03-04 11:26:26.928 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5192/Account/Login?ReturnUrl=%2FPersons%2FIndex - - - 200 - text/html;+charset=utf-8 44.4445ms
+2024-03-04 11:26:26.930 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5192/_framework/aspnetcore-browser-refresh.js - - - 200 13772 application/javascript;+charset=utf-8 6.8657ms
+2024-03-04 11:26:26.961 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5192/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 38.3086ms
+2024-03-04 11:26:27.230 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5192/Persons/Index - -
+2024-03-04 11:26:27.235 +01:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-03-04 11:26:27.239 +01:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2024-03-04 11:26:27.241 +01:00 [INF] HTTP GET /Persons/Index responded 302 in 7.8443 ms
+2024-03-04 11:26:27.244 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5192/Persons/Index - - - 302 0 - 14.3220ms
+2024-03-04 11:26:27.249 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5192/Account/Login?ReturnUrl=%2FPersons%2FIndex - -
+2024-03-04 11:26:27.255 +01:00 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2024-03-04 11:26:27.258 +01:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login() on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2024-03-04 11:26:27.277 +01:00 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync
+2024-03-04 11:26:27.279 +01:00 [INF] Executing ViewResult, running view Login.
+2024-03-04 11:26:27.283 +01:00 [INF] Executed ViewResult - view Login executed in 4.2912ms.
+2024-03-04 11:26:27.285 +01:00 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI) in 24.6765ms
+2024-03-04 11:26:27.287 +01:00 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2024-03-04 11:26:27.289 +01:00 [INF] HTTP GET /Account/Login responded 200 in 34.2000 ms
+2024-03-04 11:26:27.292 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5192/_framework/aspnetcore-browser-refresh.js - -
+2024-03-04 11:26:27.292 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5192/_vs/browserLink - -
+2024-03-04 11:26:27.293 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5192/Account/Login?ReturnUrl=%2FPersons%2FIndex - - - 200 - text/html;+charset=utf-8 44.6819ms
+2024-03-04 11:26:27.297 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5192/_framework/aspnetcore-browser-refresh.js - - - 200 13772 application/javascript;+charset=utf-8 5.2925ms
+2024-03-04 11:26:27.313 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5192/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 20.5453ms
+2024-03-04 11:26:27.622 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5192/Persons/Index - -
+2024-03-04 11:26:27.627 +01:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-03-04 11:26:27.630 +01:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2024-03-04 11:26:27.632 +01:00 [INF] HTTP GET /Persons/Index responded 302 in 5.0869 ms
+2024-03-04 11:26:27.634 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5192/Persons/Index - - - 302 0 - 11.6272ms
+2024-03-04 11:26:27.642 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5192/Account/Login?ReturnUrl=%2FPersons%2FIndex - -
+2024-03-04 11:26:27.645 +01:00 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2024-03-04 11:26:27.647 +01:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login() on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2024-03-04 11:26:27.651 +01:00 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync
+2024-03-04 11:26:27.652 +01:00 [INF] Executing ViewResult, running view Login.
+2024-03-04 11:26:27.659 +01:00 [INF] Executed ViewResult - view Login executed in 7.2891ms.
+2024-03-04 11:26:27.661 +01:00 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI) in 11.1314ms
+2024-03-04 11:26:27.664 +01:00 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2024-03-04 11:26:27.668 +01:00 [INF] HTTP GET /Account/Login responded 200 in 22.5550 ms
+2024-03-04 11:26:27.671 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5192/_vs/browserLink - -
+2024-03-04 11:26:27.672 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5192/_framework/aspnetcore-browser-refresh.js - -
+2024-03-04 11:26:27.673 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5192/Account/Login?ReturnUrl=%2FPersons%2FIndex - - - 200 - text/html;+charset=utf-8 30.6778ms
+2024-03-04 11:26:27.698 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5192/_framework/aspnetcore-browser-refresh.js - - - 200 13772 application/javascript;+charset=utf-8 26.1615ms
+2024-03-04 11:26:27.714 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5192/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 42.6374ms
+2024-03-04 11:26:28.161 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5192/Countries/UploadFromExcel - -
+2024-03-04 11:26:28.165 +01:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-03-04 11:26:28.167 +01:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2024-03-04 11:26:28.168 +01:00 [INF] HTTP GET /Countries/UploadFromExcel responded 302 in 3.1476 ms
+2024-03-04 11:26:28.170 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5192/Countries/UploadFromExcel - - - 302 0 - 8.5590ms
+2024-03-04 11:26:28.172 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5192/Account/Login?ReturnUrl=%2FCountries%2FUploadFromExcel - -
+2024-03-04 11:26:28.176 +01:00 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2024-03-04 11:26:28.177 +01:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login() on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2024-03-04 11:26:28.180 +01:00 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync
+2024-03-04 11:26:28.181 +01:00 [INF] Executing ViewResult, running view Login.
+2024-03-04 11:26:28.185 +01:00 [INF] Executed ViewResult - view Login executed in 4.0194ms.
+2024-03-04 11:26:28.187 +01:00 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI) in 7.0794ms
+2024-03-04 11:26:28.189 +01:00 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2024-03-04 11:26:28.191 +01:00 [INF] HTTP GET /Account/Login responded 200 in 14.6788 ms
+2024-03-04 11:26:28.193 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5192/_framework/aspnetcore-browser-refresh.js - -
+2024-03-04 11:26:28.193 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5192/_vs/browserLink - -
+2024-03-04 11:26:28.194 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5192/Account/Login?ReturnUrl=%2FCountries%2FUploadFromExcel - - - 200 - text/html;+charset=utf-8 21.9682ms
+2024-03-04 11:26:28.196 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5192/_framework/aspnetcore-browser-refresh.js - - - 200 13772 application/javascript;+charset=utf-8 3.2643ms
+2024-03-04 11:26:28.236 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5192/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 43.0452ms
+2024-03-04 11:26:28.352 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5192/Countries/UploadFromExcel - -
+2024-03-04 11:26:28.356 +01:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-03-04 11:26:28.358 +01:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2024-03-04 11:26:28.359 +01:00 [INF] HTTP GET /Countries/UploadFromExcel responded 302 in 3.7487 ms
+2024-03-04 11:26:28.362 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5192/Countries/UploadFromExcel - - - 302 0 - 10.6794ms
+2024-03-04 11:26:28.365 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5192/Account/Login?ReturnUrl=%2FCountries%2FUploadFromExcel - -
+2024-03-04 11:26:28.369 +01:00 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2024-03-04 11:26:28.370 +01:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login() on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2024-03-04 11:26:28.373 +01:00 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync
+2024-03-04 11:26:28.375 +01:00 [INF] Executing ViewResult, running view Login.
+2024-03-04 11:26:28.377 +01:00 [INF] Executed ViewResult - view Login executed in 1.9109ms.
+2024-03-04 11:26:28.378 +01:00 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI) in 5.0035ms
+2024-03-04 11:26:28.383 +01:00 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2024-03-04 11:26:28.384 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5192/_framework/aspnetcore-browser-refresh.js - -
+2024-03-04 11:26:28.384 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5192/_vs/browserLink - -
+2024-03-04 11:26:28.384 +01:00 [INF] HTTP GET /Account/Login responded 200 in 15.4624 ms
+2024-03-04 11:26:28.386 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5192/_framework/aspnetcore-browser-refresh.js - - - 200 13772 application/javascript;+charset=utf-8 2.1767ms
+2024-03-04 11:26:28.391 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5192/Account/Login?ReturnUrl=%2FCountries%2FUploadFromExcel - - - 200 - text/html;+charset=utf-8 26.0707ms
+2024-03-04 11:26:28.392 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5192/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 8.3377ms
+2024-03-04 11:26:28.516 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5192/Countries/UploadFromExcel - -
+2024-03-04 11:26:28.520 +01:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-03-04 11:26:28.523 +01:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2024-03-04 11:26:28.524 +01:00 [INF] HTTP GET /Countries/UploadFromExcel responded 302 in 4.1478 ms
+2024-03-04 11:26:28.526 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5192/Countries/UploadFromExcel - - - 302 0 - 9.9583ms
+2024-03-04 11:26:28.529 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5192/Account/Login?ReturnUrl=%2FCountries%2FUploadFromExcel - -
+2024-03-04 11:26:28.533 +01:00 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2024-03-04 11:26:28.538 +01:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login() on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2024-03-04 11:26:28.543 +01:00 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync
+2024-03-04 11:26:28.548 +01:00 [INF] Executing ViewResult, running view Login.
+2024-03-04 11:26:28.555 +01:00 [INF] Executed ViewResult - view Login executed in 7.7532ms.
+2024-03-04 11:26:28.566 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5192/_framework/aspnetcore-browser-refresh.js - -
+2024-03-04 11:26:28.567 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5192/_vs/browserLink - -
+2024-03-04 11:26:28.567 +01:00 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI) in 24.5666ms
+2024-03-04 11:26:28.571 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5192/_framework/aspnetcore-browser-refresh.js - - - 200 13772 application/javascript;+charset=utf-8 4.2651ms
+2024-03-04 11:26:28.575 +01:00 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2024-03-04 11:26:28.589 +01:00 [INF] HTTP GET /Account/Login responded 200 in 56.5851 ms
+2024-03-04 11:26:28.589 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5192/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 22.2748ms
+2024-03-04 11:26:28.592 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5192/Account/Login?ReturnUrl=%2FCountries%2FUploadFromExcel - - - 200 - text/html;+charset=utf-8 63.4302ms

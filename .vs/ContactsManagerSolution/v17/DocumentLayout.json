@@ -1,0 +1,740 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA20ADB-442A-4C7A-AAD7-44B7AE3DFC44}|ContactsManager.UI\\ContactsManager.UI.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.ui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA20ADB-442A-4C7A-AAD7-44B7AE3DFC44}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Arthur\\.nuget\\packages\\epplus\\6.0.8\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA20ADB-442A-4C7A-AAD7-44B7AE3DFC44}|ContactsManager.UI\\ContactsManager.UI.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA20ADB-442A-4C7A-AAD7-44B7AE3DFC44}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72FC255-275D-4E30-9DF2-E1F23D753ACC}|ContactsManager.Core\\ContactsManager.Core.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.core\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72FC255-275D-4E30-9DF2-E1F23D753ACC}|ContactsManager.Core\\ContactsManager.Core.csproj|solutionrelative:contactsmanager.core\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4873FBA3-4A40-4590-9691-71E6E7D44007}|ContactsManager.Infrastructure\\ContactsManager.Infrastructure.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.infrastructure\\contactsmanager.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4873FBA3-4A40-4590-9691-71E6E7D44007}|ContactsManager.Infrastructure\\ContactsManager.Infrastructure.csproj|solutionrelative:contactsmanager.infrastructure\\contactsmanager.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA20ADB-442A-4C7A-AAD7-44B7AE3DFC44}|ContactsManager.UI\\ContactsManager.UI.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.ui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AA20ADB-442A-4C7A-AAD7-44B7AE3DFC44}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA20ADB-442A-4C7A-AAD7-44B7AE3DFC44}|ContactsManager.UI\\ContactsManager.UI.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AA20ADB-442A-4C7A-AAD7-44B7AE3DFC44}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA20ADB-442A-4C7A-AAD7-44B7AE3DFC44}|ContactsManager.UI\\ContactsManager.UI.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.ui\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AA20ADB-442A-4C7A-AAD7-44B7AE3DFC44}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA20ADB-442A-4C7A-AAD7-44B7AE3DFC44}|ContactsManager.UI\\ContactsManager.UI.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.ui\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA20ADB-442A-4C7A-AAD7-44B7AE3DFC44}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA20ADB-442A-4C7A-AAD7-44B7AE3DFC44}|ContactsManager.UI\\ContactsManager.UI.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.ui\\startupextensions\\configureserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA20ADB-442A-4C7A-AAD7-44B7AE3DFC44}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\startupextensions\\configureserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA20ADB-442A-4C7A-AAD7-44B7AE3DFC44}|ContactsManager.UI\\ContactsManager.UI.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3AA20ADB-442A-4C7A-AAD7-44B7AE3DFC44}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA20ADB-442A-4C7A-AAD7-44B7AE3DFC44}|ContactsManager.UI\\ContactsManager.UI.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA20ADB-442A-4C7A-AAD7-44B7AE3DFC44}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA20ADB-442A-4C7A-AAD7-44B7AE3DFC44}|ContactsManager.UI\\ContactsManager.UI.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.ui\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AA20ADB-442A-4C7A-AAD7-44B7AE3DFC44}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA20ADB-442A-4C7A-AAD7-44B7AE3DFC44}|ContactsManager.UI\\ContactsManager.UI.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.ui\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AA20ADB-442A-4C7A-AAD7-44B7AE3DFC44}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA20ADB-442A-4C7A-AAD7-44B7AE3DFC44}|ContactsManager.UI\\ContactsManager.UI.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.ui\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3AA20ADB-442A-4C7A-AAD7-44B7AE3DFC44}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4873FBA3-4A40-4590-9691-71E6E7D44007}|ContactsManager.Infrastructure\\ContactsManager.Infrastructure.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.infrastructure\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4873FBA3-4A40-4590-9691-71E6E7D44007}|ContactsManager.Infrastructure\\ContactsManager.Infrastructure.csproj|solutionrelative:contactsmanager.infrastructure\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72FC255-275D-4E30-9DF2-E1F23D753ACC}|ContactsManager.Core\\ContactsManager.Core.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.core\\enums\\usertypeoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72FC255-275D-4E30-9DF2-E1F23D753ACC}|ContactsManager.Core\\ContactsManager.Core.csproj|solutionrelative:contactsmanager.core\\enums\\usertypeoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA20ADB-442A-4C7A-AAD7-44B7AE3DFC44}|ContactsManager.UI\\ContactsManager.UI.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.ui\\views\\persons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AA20ADB-442A-4C7A-AAD7-44B7AE3DFC44}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\views\\persons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA20ADB-442A-4C7A-AAD7-44B7AE3DFC44}|ContactsManager.UI\\ContactsManager.UI.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.ui\\contactsmanager.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3AA20ADB-442A-4C7A-AAD7-44B7AE3DFC44}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\contactsmanager.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72FC255-275D-4E30-9DF2-E1F23D753ACC}|ContactsManager.Core\\ContactsManager.Core.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.core\\domain\\entities\\identityentities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72FC255-275D-4E30-9DF2-E1F23D753ACC}|ContactsManager.Core\\ContactsManager.Core.csproj|solutionrelative:contactsmanager.core\\domain\\entities\\identityentities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA20ADB-442A-4C7A-AAD7-44B7AE3DFC44}|ContactsManager.UI\\ContactsManager.UI.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.ui\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AA20ADB-442A-4C7A-AAD7-44B7AE3DFC44}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA20ADB-442A-4C7A-AAD7-44B7AE3DFC44}|ContactsManager.UI\\ContactsManager.UI.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.ui\\views\\countries\\uploadfromexcel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AA20ADB-442A-4C7A-AAD7-44B7AE3DFC44}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\views\\countries\\uploadfromexcel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA20ADB-442A-4C7A-AAD7-44B7AE3DFC44}|ContactsManager.UI\\ContactsManager.UI.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.ui\\views\\persons\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AA20ADB-442A-4C7A-AAD7-44B7AE3DFC44}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\views\\persons\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72FC255-275D-4E30-9DF2-E1F23D753ACC}|ContactsManager.Core\\ContactsManager.Core.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.core\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72FC255-275D-4E30-9DF2-E1F23D753ACC}|ContactsManager.Core\\ContactsManager.Core.csproj|solutionrelative:contactsmanager.core\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA20ADB-442A-4C7A-AAD7-44B7AE3DFC44}|ContactsManager.UI\\ContactsManager.UI.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.ui\\views\\persons\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AA20ADB-442A-4C7A-AAD7-44B7AE3DFC44}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\views\\persons\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA20ADB-442A-4C7A-AAD7-44B7AE3DFC44}|ContactsManager.UI\\ContactsManager.UI.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.ui\\views\\persons\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AA20ADB-442A-4C7A-AAD7-44B7AE3DFC44}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\views\\persons\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72FC255-275D-4E30-9DF2-E1F23D753ACC}|ContactsManager.Core\\ContactsManager.Core.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.core\\domain\\entities\\identityentities\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72FC255-275D-4E30-9DF2-E1F23D753ACC}|ContactsManager.Core\\ContactsManager.Core.csproj|solutionrelative:contactsmanager.core\\domain\\entities\\identityentities\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4873FBA3-4A40-4590-9691-71E6E7D44007}|ContactsManager.Infrastructure\\ContactsManager.Infrastructure.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.infrastructure\\migrations\\20240229133709_identitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4873FBA3-4A40-4590-9691-71E6E7D44007}|ContactsManager.Infrastructure\\ContactsManager.Infrastructure.csproj|solutionrelative:contactsmanager.infrastructure\\migrations\\20240229133709_identitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C720F3B1-D1EC-4720-AE8F-505FDBA7098C}|ContactsManager.ServiceTests\\ContactsManager.ServiceTests.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.servicetests\\contactsmanager.servicetests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C720F3B1-D1EC-4720-AE8F-505FDBA7098C}|ContactsManager.ServiceTests\\ContactsManager.ServiceTests.csproj|solutionrelative:contactsmanager.servicetests\\contactsmanager.servicetests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6888FB-80B0-4FF8-BD73-25D7B936E09A}|ContactsManager.IntegrationTests\\ContactsManager.IntegrationTests.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.integrationtests\\contactsmanager.integrationtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1A6888FB-80B0-4FF8-BD73-25D7B936E09A}|ContactsManager.IntegrationTests\\ContactsManager.IntegrationTests.csproj|solutionrelative:contactsmanager.integrationtests\\contactsmanager.integrationtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDC3451-7C65-4E6D-872D-90C9CE040B93}|ContactsManager.ControllerTests\\ContactsManager.ControllerTests.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.controllertests\\personscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDC3451-7C65-4E6D-872D-90C9CE040B93}|ContactsManager.ControllerTests\\ContactsManager.ControllerTests.csproj|solutionrelative:contactsmanager.controllertests\\personscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C720F3B1-D1EC-4720-AE8F-505FDBA7098C}|ContactsManager.ServiceTests\\ContactsManager.ServiceTests.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.servicetests\\personsservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C720F3B1-D1EC-4720-AE8F-505FDBA7098C}|ContactsManager.ServiceTests\\ContactsManager.ServiceTests.csproj|solutionrelative:contactsmanager.servicetests\\personsservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6888FB-80B0-4FF8-BD73-25D7B936E09A}|ContactsManager.IntegrationTests\\ContactsManager.IntegrationTests.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.integrationtests\\personscontrollerintegrationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6888FB-80B0-4FF8-BD73-25D7B936E09A}|ContactsManager.IntegrationTests\\ContactsManager.IntegrationTests.csproj|solutionrelative:contactsmanager.integrationtests\\personscontrollerintegrationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6888FB-80B0-4FF8-BD73-25D7B936E09A}|ContactsManager.IntegrationTests\\ContactsManager.IntegrationTests.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.integrationtests\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6888FB-80B0-4FF8-BD73-25D7B936E09A}|ContactsManager.IntegrationTests\\ContactsManager.IntegrationTests.csproj|solutionrelative:contactsmanager.integrationtests\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C720F3B1-D1EC-4720-AE8F-505FDBA7098C}|ContactsManager.ServiceTests\\ContactsManager.ServiceTests.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.servicetests\\countriesservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C720F3B1-D1EC-4720-AE8F-505FDBA7098C}|ContactsManager.ServiceTests\\ContactsManager.ServiceTests.csproj|solutionrelative:contactsmanager.servicetests\\countriesservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4873FBA3-4A40-4590-9691-71E6E7D44007}|ContactsManager.Infrastructure\\ContactsManager.Infrastructure.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.infrastructure\\migrations\\20240226145813_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4873FBA3-4A40-4590-9691-71E6E7D44007}|ContactsManager.Infrastructure\\ContactsManager.Infrastructure.csproj|solutionrelative:contactsmanager.infrastructure\\migrations\\20240226145813_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA20ADB-442A-4C7A-AAD7-44B7AE3DFC44}|ContactsManager.UI\\ContactsManager.UI.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.ui\\filters\\actionfilters\\personslistactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA20ADB-442A-4C7A-AAD7-44B7AE3DFC44}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\filters\\actionfilters\\personslistactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72FC255-275D-4E30-9DF2-E1F23D753ACC}|ContactsManager.Core\\ContactsManager.Core.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.core\\servicecontracts\\ipersonsupdaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72FC255-275D-4E30-9DF2-E1F23D753ACC}|ContactsManager.Core\\ContactsManager.Core.csproj|solutionrelative:contactsmanager.core\\servicecontracts\\ipersonsupdaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72FC255-275D-4E30-9DF2-E1F23D753ACC}|ContactsManager.Core\\ContactsManager.Core.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.core\\servicecontracts\\ipersonsgetterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72FC255-275D-4E30-9DF2-E1F23D753ACC}|ContactsManager.Core\\ContactsManager.Core.csproj|solutionrelative:contactsmanager.core\\servicecontracts\\ipersonsgetterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72FC255-275D-4E30-9DF2-E1F23D753ACC}|ContactsManager.Core\\ContactsManager.Core.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.core\\servicecontracts\\ipersonsdeleterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72FC255-275D-4E30-9DF2-E1F23D753ACC}|ContactsManager.Core\\ContactsManager.Core.csproj|solutionrelative:contactsmanager.core\\servicecontracts\\ipersonsdeleterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72FC255-275D-4E30-9DF2-E1F23D753ACC}|ContactsManager.Core\\ContactsManager.Core.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.core\\servicecontracts\\ipersonsadderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72FC255-275D-4E30-9DF2-E1F23D753ACC}|ContactsManager.Core\\ContactsManager.Core.csproj|solutionrelative:contactsmanager.core\\servicecontracts\\ipersonsadderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72FC255-275D-4E30-9DF2-E1F23D753ACC}|ContactsManager.Core\\ContactsManager.Core.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.core\\services\\personsupdaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72FC255-275D-4E30-9DF2-E1F23D753ACC}|ContactsManager.Core\\ContactsManager.Core.csproj|solutionrelative:contactsmanager.core\\services\\personsupdaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72FC255-275D-4E30-9DF2-E1F23D753ACC}|ContactsManager.Core\\ContactsManager.Core.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.core\\services\\personsgetterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72FC255-275D-4E30-9DF2-E1F23D753ACC}|ContactsManager.Core\\ContactsManager.Core.csproj|solutionrelative:contactsmanager.core\\services\\personsgetterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72FC255-275D-4E30-9DF2-E1F23D753ACC}|ContactsManager.Core\\ContactsManager.Core.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.core\\services\\personsdeleterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72FC255-275D-4E30-9DF2-E1F23D753ACC}|ContactsManager.Core\\ContactsManager.Core.csproj|solutionrelative:contactsmanager.core\\services\\personsdeleterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72FC255-275D-4E30-9DF2-E1F23D753ACC}|ContactsManager.Core\\ContactsManager.Core.csproj|c:\\users\\arthur\\source\\repos\\contactsmanagersolution\\contactsmanager.core\\services\\personsadderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72FC255-275D-4E30-9DF2-E1F23D753ACC}|ContactsManager.Core\\ContactsManager.Core.csproj|solutionrelative:contactsmanager.core\\services\\personsadderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.UI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.UI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ContactsManager.UI\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T10:23:45.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.Core\\DTO\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "ContactsManager.Core\\DTO\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.Core\\DTO\\RegisterDTO.cs",
+              "RelativeToolTip": "ContactsManager.Core\\DTO\\RegisterDTO.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA5wAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:48:38.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactsManager.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.Infrastructure\\ContactsManager.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "ContactsManager.Infrastructure\\ContactsManager.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.Infrastructure\\ContactsManager.Infrastructure.csproj",
+              "RelativeToolTip": "ContactsManager.Infrastructure\\ContactsManager.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-26T10:04:14.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.UI\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.UI\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ContactsManager.UI\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-26T14:49:20.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ContactsManager.UI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T09:22:56.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.UI\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.UI\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ContactsManager.UI\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T08:48:27.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.UI\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.UI\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ContactsManager.UI\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T08:35:45.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConfigureServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.UI\\StartUpExtensions\\ConfigureServiceExtension.cs",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\StartUpExtensions\\ConfigureServiceExtension.cs",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.UI\\StartUpExtensions\\ConfigureServiceExtension.cs",
+              "RelativeToolTip": "ContactsManager.UI\\StartUpExtensions\\ConfigureServiceExtension.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAADsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T13:04:39.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.UI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.UI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ContactsManager.UI\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T09:20:39.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.UI\\appsettings.json",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.UI\\appsettings.json",
+              "RelativeToolTip": "ContactsManager.UI\\appsettings.json",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-26T14:55:46.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.UI\\Program.cs",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.UI\\Program.cs",
+              "RelativeToolTip": "ContactsManager.UI\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADUAAACTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T08:31:08.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.UI\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.UI\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ContactsManager.UI\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T09:04:59.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "ContactsManager.UI\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAmwFMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T08:57:05.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.UI\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.UI\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ContactsManager.UI\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-06T08:34:28.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.Infrastructure\\DbContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ContactsManager.Infrastructure\\DbContext\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.Infrastructure\\DbContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ContactsManager.Infrastructure\\DbContext\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:42:13.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserTypeOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.Core\\Enums\\UserTypeOptions.cs",
+              "RelativeDocumentMoniker": "ContactsManager.Core\\Enums\\UserTypeOptions.cs",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.Core\\Enums\\UserTypeOptions.cs",
+              "RelativeToolTip": "ContactsManager.Core\\Enums\\UserTypeOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T14:43:41.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Persons\\Index.cshtml",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\Views\\Persons\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Persons\\Index.cshtml",
+              "RelativeToolTip": "ContactsManager.UI\\Views\\Persons\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAIBJwAMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T09:25:31.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ContactsManager.UI.csproj",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.UI\\ContactsManager.UI.csproj",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\ContactsManager.UI.csproj",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.UI\\ContactsManager.UI.csproj",
+              "RelativeToolTip": "ContactsManager.UI\\ContactsManager.UI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-27T09:22:44.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.Core\\Domain\\Entities\\IdentityEntities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "ContactsManager.Core\\Domain\\Entities\\IdentityEntities\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.Core\\Domain\\Entities\\IdentityEntities\\ApplicationUser.cs",
+              "RelativeToolTip": "ContactsManager.Core\\Domain\\Entities\\IdentityEntities\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:31:39.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "ContactsManager.UI\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T08:28:49.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UploadFromExcel.cshtml",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Countries\\UploadFromExcel.cshtml",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\Views\\Countries\\UploadFromExcel.cshtml",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Countries\\UploadFromExcel.cshtml",
+              "RelativeToolTip": "ContactsManager.UI\\Views\\Countries\\UploadFromExcel.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T09:23:05.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Persons\\Create.cshtml",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\Views\\Persons\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Persons\\Create.cshtml",
+              "RelativeToolTip": "ContactsManager.UI\\Views\\Persons\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T09:23:43.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.Core\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "ContactsManager.Core\\DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.Core\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "ContactsManager.Core\\DTO\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T08:24:41.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Persons\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\Views\\Persons\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Persons\\Delete.cshtml",
+              "RelativeToolTip": "ContactsManager.UI\\Views\\Persons\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T09:23:56.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Persons\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\Views\\Persons\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Persons\\Edit.cshtml",
+              "RelativeToolTip": "ContactsManager.UI\\Views\\Persons\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T09:24:06.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApplicationRole.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.Core\\Domain\\Entities\\IdentityEntities\\ApplicationRole.cs",
+              "RelativeDocumentMoniker": "ContactsManager.Core\\Domain\\Entities\\IdentityEntities\\ApplicationRole.cs",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.Core\\Domain\\Entities\\IdentityEntities\\ApplicationRole.cs",
+              "RelativeToolTip": "ContactsManager.Core\\Domain\\Entities\\IdentityEntities\\ApplicationRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:40:30.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20240229133709_IdentityTables.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.Infrastructure\\Migrations\\20240229133709_IdentityTables.cs",
+              "RelativeDocumentMoniker": "ContactsManager.Infrastructure\\Migrations\\20240229133709_IdentityTables.cs",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.Infrastructure\\Migrations\\20240229133709_IdentityTables.cs",
+              "RelativeToolTip": "ContactsManager.Infrastructure\\Migrations\\20240229133709_IdentityTables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T13:37:09.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ContactsManager.ServiceTests.csproj",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.ServiceTests\\ContactsManager.ServiceTests.csproj",
+              "RelativeDocumentMoniker": "ContactsManager.ServiceTests\\ContactsManager.ServiceTests.csproj",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.ServiceTests\\ContactsManager.ServiceTests.csproj",
+              "RelativeToolTip": "ContactsManager.ServiceTests\\ContactsManager.ServiceTests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-27T09:33:07.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ContactsManager.IntegrationTests.csproj",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.IntegrationTests\\ContactsManager.IntegrationTests.csproj",
+              "RelativeDocumentMoniker": "ContactsManager.IntegrationTests\\ContactsManager.IntegrationTests.csproj",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.IntegrationTests\\ContactsManager.IntegrationTests.csproj",
+              "RelativeToolTip": "ContactsManager.IntegrationTests\\ContactsManager.IntegrationTests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-27T10:11:06.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PersonsControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.ControllerTests\\PersonsControllerTest.cs",
+              "RelativeDocumentMoniker": "ContactsManager.ControllerTests\\PersonsControllerTest.cs",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.ControllerTests\\PersonsControllerTest.cs",
+              "RelativeToolTip": "ContactsManager.ControllerTests\\PersonsControllerTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAPoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T10:02:57.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PersonsServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.ServiceTests\\PersonsServiceTest.cs",
+              "RelativeDocumentMoniker": "ContactsManager.ServiceTests\\PersonsServiceTest.cs",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.ServiceTests\\PersonsServiceTest.cs",
+              "RelativeToolTip": "ContactsManager.ServiceTests\\PersonsServiceTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T10:02:39.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PersonsControllerIntegrationTest.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.IntegrationTests\\PersonsControllerIntegrationTest.cs",
+              "RelativeDocumentMoniker": "ContactsManager.IntegrationTests\\PersonsControllerIntegrationTest.cs",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.IntegrationTests\\PersonsControllerIntegrationTest.cs",
+              "RelativeToolTip": "ContactsManager.IntegrationTests\\PersonsControllerIntegrationTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T10:13:25.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CustomWebApplicationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.IntegrationTests\\CustomWebApplicationFactory.cs",
+              "RelativeDocumentMoniker": "ContactsManager.IntegrationTests\\CustomWebApplicationFactory.cs",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.IntegrationTests\\CustomWebApplicationFactory.cs",
+              "RelativeToolTip": "ContactsManager.IntegrationTests\\CustomWebApplicationFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwB4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T14:08:19.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CountriesServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.ServiceTests\\CountriesServiceTest.cs",
+              "RelativeDocumentMoniker": "ContactsManager.ServiceTests\\CountriesServiceTest.cs",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.ServiceTests\\CountriesServiceTest.cs",
+              "RelativeToolTip": "ContactsManager.ServiceTests\\CountriesServiceTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T10:02:04.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20240226145813_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.Infrastructure\\Migrations\\20240226145813_Initial.cs",
+              "RelativeDocumentMoniker": "ContactsManager.Infrastructure\\Migrations\\20240226145813_Initial.cs",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.Infrastructure\\Migrations\\20240226145813_Initial.cs",
+              "RelativeToolTip": "ContactsManager.Infrastructure\\Migrations\\20240226145813_Initial.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAgwAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T14:58:13.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PersonsListActionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.UI\\Filters\\ActionFilters\\PersonsListActionFilter.cs",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\Filters\\ActionFilters\\PersonsListActionFilter.cs",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.UI\\Filters\\ActionFilters\\PersonsListActionFilter.cs",
+              "RelativeToolTip": "ContactsManager.UI\\Filters\\ActionFilters\\PersonsListActionFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T14:49:08.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IPersonsUpdaterService.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.Core\\ServiceContracts\\IPersonsUpdaterService.cs",
+              "RelativeDocumentMoniker": "ContactsManager.Core\\ServiceContracts\\IPersonsUpdaterService.cs",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.Core\\ServiceContracts\\IPersonsUpdaterService.cs",
+              "RelativeToolTip": "ContactsManager.Core\\ServiceContracts\\IPersonsUpdaterService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T09:59:36.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IPersonsGetterService.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.Core\\ServiceContracts\\IPersonsGetterService.cs",
+              "RelativeDocumentMoniker": "ContactsManager.Core\\ServiceContracts\\IPersonsGetterService.cs",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.Core\\ServiceContracts\\IPersonsGetterService.cs",
+              "RelativeToolTip": "ContactsManager.Core\\ServiceContracts\\IPersonsGetterService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T09:59:16.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IPersonsDeleterService.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.Core\\ServiceContracts\\IPersonsDeleterService.cs",
+              "RelativeDocumentMoniker": "ContactsManager.Core\\ServiceContracts\\IPersonsDeleterService.cs",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.Core\\ServiceContracts\\IPersonsDeleterService.cs",
+              "RelativeToolTip": "ContactsManager.Core\\ServiceContracts\\IPersonsDeleterService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T09:59:04.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IPersonsAdderService.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.Core\\ServiceContracts\\IPersonsAdderService.cs",
+              "RelativeDocumentMoniker": "ContactsManager.Core\\ServiceContracts\\IPersonsAdderService.cs",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.Core\\ServiceContracts\\IPersonsAdderService.cs",
+              "RelativeToolTip": "ContactsManager.Core\\ServiceContracts\\IPersonsAdderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T09:58:53.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PersonsUpdaterService.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.Core\\Services\\PersonsUpdaterService.cs",
+              "RelativeDocumentMoniker": "ContactsManager.Core\\Services\\PersonsUpdaterService.cs",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.Core\\Services\\PersonsUpdaterService.cs",
+              "RelativeToolTip": "ContactsManager.Core\\Services\\PersonsUpdaterService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T09:58:19.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "PersonsGetterService.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.Core\\Services\\PersonsGetterService.cs",
+              "RelativeDocumentMoniker": "ContactsManager.Core\\Services\\PersonsGetterService.cs",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.Core\\Services\\PersonsGetterService.cs",
+              "RelativeToolTip": "ContactsManager.Core\\Services\\PersonsGetterService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T09:57:57.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PersonsDeleterService.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.Core\\Services\\PersonsDeleterService.cs",
+              "RelativeDocumentMoniker": "ContactsManager.Core\\Services\\PersonsDeleterService.cs",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.Core\\Services\\PersonsDeleterService.cs",
+              "RelativeToolTip": "ContactsManager.Core\\Services\\PersonsDeleterService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T09:57:37.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "PersonsAdderService.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.Core\\Services\\PersonsAdderService.cs",
+              "RelativeDocumentMoniker": "ContactsManager.Core\\Services\\PersonsAdderService.cs",
+              "ToolTip": "C:\\Users\\Arthur\\source\\repos\\ContactsManagerSolution\\ContactsManager.Core\\Services\\PersonsAdderService.cs",
+              "RelativeToolTip": "ContactsManager.Core\\Services\\PersonsAdderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T09:57:20.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\Arthur\\.nuget\\packages\\epplus\\6.0.8\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\epplus\\6.0.8\\readme.txt",
+              "ToolTip": "C:\\Users\\Arthur\\.nuget\\packages\\epplus\\6.0.8\\readme.txt",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\epplus\\6.0.8\\readme.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-02-26T09:52:54.611Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

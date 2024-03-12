@@ -1,0 +1,55 @@
+2024-03-04 09:43:34.550 +01:00 [INF] User profile is available. Using 'C:\Users\Arthur\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-04 09:43:35.131 +01:00 [INF] Now listening on: http://localhost:5192
+2024-03-04 09:43:37.561 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5192/ - -
+2024-03-04 09:43:37.790 +01:00 [INF] Executing endpoint 'CRUDExample.Controllers.PersonsController.Index (ContactsManager.UI)'
+2024-03-04 09:43:37.934 +01:00 [INF] Route matched with {action = "Index", controller = "Persons"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index(System.String, System.String, System.String, ContactsManager.Core.Enums.SortOrderOptions) on controller CRUDExample.Controllers.PersonsController (ContactsManager.UI).
+2024-03-04 09:43:38.314 +01:00 [INF] PersonsListActionFilter.OnActionExecuting method
+2024-03-04 09:43:38.318 +01:00 [INF] Index Action method of PersonsController
+2024-03-04 09:43:38.323 +01:00 [INF] GetFilteredPersons of PersonsService
+2024-03-04 09:43:38.327 +01:00 [INF] GetAllPersons of PersonsRepository
+2024-03-04 09:43:39.644 +01:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: None
+2024-03-04 09:43:40.630 +01:00 [INF] Executed DbCommand (51ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[PersonID], [p].[Address], [p].[CountryID], [p].[DateOfBirth], [p].[Email], [p].[Gender], [p].[PersonName], [p].[ReceiveNewsLetters], [p].[TaxIdentificationNumber], [c].[CountryID], [c].[CountryName]
+FROM [Persons] AS [p]
+LEFT JOIN [Countries] AS [c] ON [p].[CountryID] = [c].[CountryID]
+2024-03-04 09:43:40.796 +01:00 [INF] Time for Filtered Persons From PersonsService completed in 2470.2 ms
+2024-03-04 09:43:40.817 +01:00 [INF] GetSortedPersons of PersonsService
+2024-03-04 09:43:40.827 +01:00 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync
+2024-03-04 09:43:40.844 +01:00 [INF] PersonsListActionFilter.OnActionExecuted method
+2024-03-04 09:43:40.912 +01:00 [INF] PersonsListResultFilter.PersonsListResultFilter - before
+2024-03-04 09:43:40.923 +01:00 [INF] Executing ViewResult, running view Index.
+2024-03-04 09:43:41.187 +01:00 [INF] Executed ViewResult - view Index executed in 264.9061ms.
+2024-03-04 09:43:41.191 +01:00 [INF] PersonsListResultFilter.PersonsListResultFilter - after
+2024-03-04 09:43:41.197 +01:00 [INF] Executed action CRUDExample.Controllers.PersonsController.Index (ContactsManager.UI) in 3259.9918ms
+2024-03-04 09:43:41.199 +01:00 [INF] Executed endpoint 'CRUDExample.Controllers.PersonsController.Index (ContactsManager.UI)'
+2024-03-04 09:43:41.203 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5192/_framework/aspnetcore-browser-refresh.js - -
+2024-03-04 09:43:41.203 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5192/StyleSheet.css - -
+2024-03-04 09:43:41.209 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5192/_vs/browserLink - -
+2024-03-04 09:43:41.212 +01:00 [INF] HTTP GET / responded 200 in 3474.4200 ms
+2024-03-04 09:43:41.214 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5192/_framework/aspnetcore-browser-refresh.js - - - 200 13772 application/javascript;+charset=utf-8 9.5701ms
+2024-03-04 09:43:41.222 +01:00 [INF] The file /StyleSheet.css was not modified
+2024-03-04 09:43:41.227 +01:00 [INF] HTTP GET /StyleSheet.css responded 304 in 19.7844 ms
+2024-03-04 09:43:41.241 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5192/StyleSheet.css - - - 304 - text/css 38.2015ms
+2024-03-04 09:43:41.250 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5192/ - - - 200 - text/html;+charset=utf-8 3694.7740ms
+2024-03-04 09:43:41.347 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5192/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 137.9642ms
+2024-03-04 09:43:41.380 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5192/favicon.ico - -
+2024-03-04 09:43:41.387 +01:00 [INF] HTTP GET /favicon.ico responded 404 in 5.0534 ms
+2024-03-04 09:43:41.390 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5192/favicon.ico - - - 404 0 - 10.0101ms
+2024-03-04 09:43:49.011 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5192/Account/Login - -
+2024-03-04 09:43:49.021 +01:00 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2024-03-04 09:43:49.025 +01:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login() on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2024-03-04 09:43:49.036 +01:00 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync
+2024-03-04 09:43:49.038 +01:00 [INF] Executing ViewResult, running view Login.
+2024-03-04 09:43:49.089 +01:00 [INF] Executed ViewResult - view Login executed in 51.274ms.
+2024-03-04 09:43:49.092 +01:00 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI) in 64.281ms
+2024-03-04 09:43:49.095 +01:00 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2024-03-04 09:43:49.097 +01:00 [INF] HTTP GET /Account/Login responded 200 in 82.0574 ms
+2024-03-04 09:43:49.102 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5192/Account/Login - - - 200 - text/html;+charset=utf-8 91.5486ms
+2024-03-04 09:43:49.105 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5192/_framework/aspnetcore-browser-refresh.js - -
+2024-03-04 09:43:49.107 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5192/_framework/aspnetcore-browser-refresh.js - - - 200 13772 application/javascript;+charset=utf-8 1.9269ms
+2024-03-04 09:43:49.110 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5192/_vs/browserLink - -
+2024-03-04 09:43:49.149 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5192/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 39.3757ms
+2024-03-04 09:43:49.353 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5192/jquery.validate.unobtrusive.min.js - -
+2024-03-04 09:43:49.388 +01:00 [INF] Sending file. Request path: '/jquery.validate.unobtrusive.min.js'. Physical path: 'C:\Users\Arthur\source\repos\ContactsManagerSolution\ContactsManager.UI\wwwroot\jquery.validate.unobtrusive.min.js'
+2024-03-04 09:43:49.392 +01:00 [INF] HTTP GET /jquery.validate.unobtrusive.min.js responded 200 in 36.6425 ms
+2024-03-04 09:43:49.396 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5192/jquery.validate.unobtrusive.min.js - - - 200 5831 application/javascript 43.2410ms

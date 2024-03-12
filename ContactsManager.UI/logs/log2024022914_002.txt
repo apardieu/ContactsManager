@@ -1,0 +1,3 @@
+2024-02-29 14:42:48.369 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-02-29 14:42:48.381 +01:00 [INF] Hosting environment: Development
+2024-02-29 14:42:48.383 +01:00 [INF] Content root path: C:\Users\Arthur\source\repos\ContactsManagerSolution\ContactsManager.UI\

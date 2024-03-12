@@ -1,0 +1,21 @@
+2024-02-27 15:15:10.793 +01:00 [INF] User profile is available. Using 'C:\Users\Arthur\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-02-27 15:15:10.975 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost/Persons/Index - -
+2024-02-27 15:15:11.015 +01:00 [INF] Executing endpoint 'CRUDExample.Controllers.PersonsController.Index (ContactsManager.UI)'
+2024-02-27 15:15:11.044 +01:00 [INF] Route matched with {action = "Index", controller = "Persons"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index(System.String, System.String, System.String, ContactsManager.Core.Enums.SortOrderOptions) on controller CRUDExample.Controllers.PersonsController (ContactsManager.UI).
+2024-02-27 15:15:11.215 +01:00 [INF] PersonsListActionFilter.OnActionExecuting method
+2024-02-27 15:15:11.217 +01:00 [INF] Index Action method of PersonsController
+2024-02-27 15:15:11.222 +01:00 [INF] GetFilteredPersons of PersonsService
+2024-02-27 15:15:11.223 +01:00 [INF] GetAllPersons of PersonsRepository
+2024-02-27 15:15:11.880 +01:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.InMemory:6.0.7' with options: StoreName=DataBaseForTesting 
+2024-02-27 15:15:12.132 +01:00 [INF] Time for Filtered Persons From PersonsService completed in 909.7 ms
+2024-02-27 15:15:12.140 +01:00 [INF] GetSortedPersons of PersonsService
+2024-02-27 15:15:12.141 +01:00 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync
+2024-02-27 15:15:12.142 +01:00 [INF] PersonsListActionFilter.OnActionExecuted method
+2024-02-27 15:15:12.186 +01:00 [INF] PersonsListResultFilter.PersonsListResultFilter - before
+2024-02-27 15:15:12.191 +01:00 [INF] Executing ViewResult, running view Index.
+2024-02-27 15:15:12.358 +01:00 [INF] Executed ViewResult - view Index executed in 166.5327ms.
+2024-02-27 15:15:12.359 +01:00 [INF] PersonsListResultFilter.PersonsListResultFilter - after
+2024-02-27 15:15:12.360 +01:00 [INF] Executed action CRUDExample.Controllers.PersonsController.Index (ContactsManager.UI) in 1314.5591ms
+2024-02-27 15:15:12.360 +01:00 [INF] Executed endpoint 'CRUDExample.Controllers.PersonsController.Index (ContactsManager.UI)'
+2024-02-27 15:15:12.361 +01:00 [INF] HTTP GET /Persons/Index responded 200 in 1380.1959 ms
+2024-02-27 15:15:12.366 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost/Persons/Index - - - 200 - text/html;+charset=utf-8 1397.4903ms
